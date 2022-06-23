@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3215637900
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: editor.ab
+      Dependencies: {}
+    Info_1:
+      Name: luascripts.ab
+      Dependencies: {}

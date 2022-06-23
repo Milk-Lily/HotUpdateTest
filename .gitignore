@@ -1,0 +1,16 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Aa]uto[Bb]uild/
+/[Ll]ogs/
+
+.vscode/
+.vs/
+
+*.csproj
+*.sln
+.idea/
+*.log
+

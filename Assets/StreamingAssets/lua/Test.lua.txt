@@ -1,0 +1,4 @@
+﻿local UnityEngine=CS.UnityEngine
+xlua.hotfix(CS.HotFixSample,'SetPos',function(self)
+    self.transform.position = UnityEngine.Vector3(-1,2,3);
+end)
